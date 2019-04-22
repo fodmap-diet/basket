@@ -1,0 +1,8 @@
+{
+    "banana":{
+        "category":"fruit",
+        "fodmap":"low",
+        "condition":"unripe",
+        "note":"ripe banana has high levels of fructans"
+    }
+}

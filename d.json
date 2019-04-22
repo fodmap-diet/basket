@@ -1,0 +1,8 @@
+{  
+    "dark chocolate":{  
+        "category":"fruit",
+        "fodmap":"low",
+        "condition":"max 30 grams",
+        "note":"chocolate contains fat which can trigger IBS"
+    }
+}
