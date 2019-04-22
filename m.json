@@ -1,0 +1,23 @@
+{
+    "mango": {
+        "name": "mango",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "miso paste": {
+        "name": "miso paste",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "mustard": {
+        "name": "mustard",
+        "category": "spice",
+        "fodmap": "low",
+        "condition": "",
+        "note": "other than plain mustard may trigger ibs"
+    }
+}
