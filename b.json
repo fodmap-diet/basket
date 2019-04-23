@@ -1,8 +1,15 @@
 {
-    "banana":{
-        "category":"fruit",
-        "fodmap":"low",
-        "condition":"unripe",
-        "note":"ripe banana has high levels of fructans"
+    "banana": {
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "unripe",
+        "note": "ripe banana has high levels of fructans"
+    },
+    "butter": {
+        "name": "butter",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": "butter is high in fat which may trigger ibs"
     }
 }

@@ -1,8 +1,36 @@
-{  
-    "alfalfa":{  
-        "category":"vegetable",
-        "fodmap":"low",
-        "condition":"",
-        "note":""
+{
+    "alfalfa": {
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "acesulfame k": {
+        "name": "acesulfame k",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "agave": {
+        "name": "agave",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "apple cider vinegar": {
+        "name": "apple cider vinegar",
+        "category": "condiment",
+        "fodmap": "medium",
+        "condition": "max 2 tbsp/day",
+        "note": "it is highly acidic, always recommended to drink diluted"
+    },
+    "almond milk": {
+        "name": "almond milk",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }
