@@ -1,0 +1,9 @@
+{
+    "yoghurt": {
+        "name": "yoghurt",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    }
+}

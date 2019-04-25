@@ -1,0 +1,44 @@
+{
+    "paprika": {
+        "name": "paprika",
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pumpkin": {
+        "name": "pumpkin",
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pudding": {
+        "name": "pudding",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "parmesan": {
+        "name": "parmesan",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pea protein": {
+        "name": "pea protein",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 20gm/day",
+        "note": ""
+    },
+    "peppermint tea": {
+        "name": "peppermint tea",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    }
+}

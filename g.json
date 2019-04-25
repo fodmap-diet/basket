@@ -1,0 +1,44 @@
+{
+    "gelato": {
+        "name": "gelato",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "goat milk": {
+        "name": "goat milk",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "greek yoghurt": {
+        "name": "greek yoghurt",
+        "category": "dairy",
+        "fodmap": "medium",
+        "condition": "max 2-3 tbsp/daily",
+        "note": ""
+    },
+    "goat yoghurt": {
+        "name": "goat yoghurt",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "gin": {
+        "name": "gin",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "alcohol can trigger ibs"
+    },
+    "greet tea": {
+        "name": "greet tea",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    }
+}

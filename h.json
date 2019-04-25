@@ -1,0 +1,16 @@
+{
+    "hemp milk": {
+        "name": "hemp milk",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "herbal tea": {
+        "name": "herbal tea",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max once/day",
+        "note": "some herbs can trigger ibs"
+    }
+}

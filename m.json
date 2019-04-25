@@ -19,5 +19,40 @@
         "fodmap": "low",
         "condition": "",
         "note": "other than plain mustard may trigger ibs"
+    },
+    "margarine": {
+        "name": "margarine",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "mozzarella": {
+        "name": "mozzarella",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "milk tea": {
+        "name": "milk tea",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max once/day",
+        "note": "strong milk tea can trigger ibs"
+    },
+    "milk coffee": {
+        "name": "milk coffee",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "malted chocolate": {
+        "name": "malted chocolate",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 3tbsp/day",
+        "note": ""
     }
 }

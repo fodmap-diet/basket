@@ -1,0 +1,9 @@
+{
+    "vodka": {
+        "name": "vodka",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "alcohol can trigger ibs"
+    }
+}

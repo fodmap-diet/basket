@@ -1,92 +1,86 @@
 {
-    "cardamon": {
-        "category": "spice",
+    "spring onion": {
+        "name": "spring onion",
+        "category": "vegetable",
         "fodmap": "low",
         "condition": "",
         "note": ""
     },
-    "cranberry": {
-        "name": "cranberry",
+    "strawberry": {
+        "name": "strawberry",
         "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sheep milk": {
+        "name": "sheep milk",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "sorbat": {
+        "name": "sorbat",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sour cream": {
+        "name": "sour cream",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "soy protein": {
+        "name": "soy protein",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "max 1 tbsp/day",
+        "note": ""
+    },
+    "swiss cheese": {
+        "name": "swiss cheese",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sacha lnchi protein": {
+        "name": "sacha lnchi protein",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "soy milk": {
+        "name": "soy milk",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "sports drink": {
+        "name": "sports drink",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "soft drink": {
+        "name": "soft drink",
+        "category": "drink",
         "fodmap": "medium",
-        "condition": "1 tbsp/day",
+        "condition": "max 100ml/day",
         "note": ""
     },
-    "camembert": {
-        "name": "camembert",
-        "category": "dairy",
-        "fodmap": "low",
-        "condition": "",
-        "note": ""
-    },
-    "cheddar": {
-        "name": "cheddar",
-        "category": "dairy",
-        "fodmap": "low",
-        "condition": "",
-        "note": ""
-    },
-    "cheese": {
-        "name": "cheese",
-        "category": "dairy",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "cottage": {
-        "name": "cottage",
-        "category": "dairy",
-        "fodmap": "low",
-        "condition": "",
-        "note": ""
-    },
-    "cow milk": {
-        "name": "cow milk",
-        "category": "dairy",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "cream": {
-        "name": "cream",
-        "category": "dairy",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "custard": {
-        "name": "custard",
-        "category": "dairy",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "chevre": {
-        "name": "chevre",
-        "category": "dairy",
-        "fodmap": "low",
-        "condition": "",
-        "note": ""
-    },
-    "chamomile tea": {
-        "name": "chamomile tea",
+    "sugar free soft drink": {
+        "name": "sugar free soft drink",
         "category": "drink",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "coconut water": {
-        "name": "coconut water",
-        "category": "drink",
-        "fodmap": "high",
-        "condition": "",
-        "note": ""
-    },
-    "cordial": {
-        "name": "cordial",
-        "category": "drink",
-        "fodmap": "high",
-        "condition": "",
+        "fodmap": "medium",
+        "condition": "max 100ml/day",
         "note": ""
     }
 }

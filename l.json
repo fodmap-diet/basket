@@ -1,0 +1,23 @@
+{
+    "lactose free milk": {
+        "name": "lactose free milk",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "lactose free yoghurt": {
+        "name": "lactose free yoghurt",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "lemonade": {
+        "name": "lemonade",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 200ml/day",
+        "note": "lemonade can trigger ibs"
+    }
+}

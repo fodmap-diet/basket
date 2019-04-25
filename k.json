@@ -1,0 +1,16 @@
+{
+    "kheer": {
+        "name": "kheer",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": "dairy free kheer has low fodmap"
+    },
+    "kefir": {
+        "name": "kefir",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    }
+}

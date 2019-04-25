@@ -1,0 +1,23 @@
+{
+    "oat milk": {
+        "name": "oat milk",
+        "category": "dairy",
+        "fodmap": "medium",
+        "condition": "max 200ml/day",
+        "note": ""
+    },
+    "oolong tea": {
+        "name": "oolong tea",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "orange juice": {
+        "name": "orange juice",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 200ml/day",
+        "note": "orange juice can trigger ibs"
+    }
+}

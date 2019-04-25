@@ -1,0 +1,16 @@
+{
+    "tempeh": {
+        "name": "tempeh",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "tofu": {
+        "name": "tofu",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    }
+}

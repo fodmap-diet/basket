@@ -32,5 +32,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "aspartame": {
+        "name": "aspartame",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

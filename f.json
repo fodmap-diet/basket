@@ -1,0 +1,30 @@
+{
+    "feta": {
+        "name": "feta",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "fennel tea": {
+        "name": "fennel tea",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "fruit tea": {
+        "name": "fruit tea",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max once/day",
+        "note": "ensure no apple is added"
+    },
+    "fruit juice": {
+        "name": "fruit juice",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max once/day",
+        "note": "only safe fruit is allowed"
+    }
+}

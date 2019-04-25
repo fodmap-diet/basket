@@ -11,5 +11,47 @@
         "fodmap": "low",
         "condition": "",
         "note": "butter is high in fat which may trigger ibs"
+    },
+    "blueberry": {
+        "name": "blueberry",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "brie": {
+        "name": "brie",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "buttermilk": {
+        "name": "buttermilk",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "beer": {
+        "name": "beer",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 100ml/day",
+        "note": ""
+    },
+    "black tea": {
+        "name": "black tea",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "back tea contains caffine, which may trigger ibs"
+    },
+    "black coffee": {
+        "name": "black coffee",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "caffine in coffee can trigger ibs"
     }
 }

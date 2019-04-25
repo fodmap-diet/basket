@@ -1,0 +1,23 @@
+{
+    "egg": {
+        "name": "egg",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "egg protein": {
+        "name": "egg protein",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "raw egg white may trigger ibs"
+    },
+    "espresso": {
+        "name": "espresso",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "caffine in espresso may trigger ibs"
+    }
+}

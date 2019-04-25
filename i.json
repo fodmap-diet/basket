@@ -1,0 +1,9 @@
+{
+    "ice cream": {
+        "name": "ice cream",
+        "category": "dairy",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    }
+}

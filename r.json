@@ -1,0 +1,37 @@
+{
+    "radish": {
+        "name": "radish",
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "raspberry": {
+        "name": "raspberry",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice milk": {
+        "name": "rice milk",
+        "category": "dairy",
+        "fodmap": "medium",
+        "condition": "max 200ml/daily",
+        "note": ""
+    },
+    "rice protein": {
+        "name": "rice protein",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rum": {
+        "name": "rum",
+        "category": "drink",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    }
+}

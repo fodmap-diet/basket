@@ -1,0 +1,58 @@
+{
+    "whipped cream": {
+        "name": "whipped cream",
+        "category": "dairy",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "water": {
+        "name": "water",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "whey protein isolated": {
+        "name": "whey protein isolated",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "whey protein concentrated": {
+        "name": "whey protein concentrated",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "lactose free",
+        "note": ""
+    },
+    "whey protein hydrolyzed": {
+        "name": "whey protein hydrolyzed",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "lactose free",
+        "note": ""
+    },
+    "whiskey": {
+        "name": "whiskey",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": "alcohol can trigger ibs"
+    },
+    "white tea": {
+        "name": "white tea",
+        "category": "drink",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "wine": {
+        "name": "wine",
+        "category": "drink",
+        "fodmap": "medium",
+        "condition": "max 50ml/day",
+        "note": "alcohol can trigger ibs"
+    }
+}
