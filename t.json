@@ -12,5 +12,33 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "tzatziki dip": {
+        "name": "tzatziki dip",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "tomato sauce": {
+        "name": "tomato sauce",
+        "category": "condiment",
+        "fodmap": "medium",
+        "condition": "max 11ml/day",
+        "note": ""
+    },
+    "tarmarind paste": {
+        "name": "tarmarind paste",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "tahini paste": {
+        "name": "tahini paste",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

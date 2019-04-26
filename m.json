@@ -54,5 +54,33 @@
         "fodmap": "medium",
         "condition": "max 3tbsp/day",
         "note": ""
+    },
+    "marmite": {
+        "name": "marmite",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "mayonnaise": {
+        "name": "mayonnaise",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "no garlic or onion",
+        "note": ""
+    },
+    "marmalade": {
+        "name": "marmalade",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "maple syrup": {
+        "name": "maple syrup",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

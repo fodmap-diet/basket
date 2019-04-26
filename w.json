@@ -54,5 +54,26 @@
         "fodmap": "medium",
         "condition": "max 50ml/day",
         "note": "alcohol can trigger ibs"
+    },
+    "worcestershire sauce": {
+        "name": "worcestershire sauce",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "white chocolate": {
+        "name": "white chocolate",
+        "category": "condiment",
+        "fodmap": "medium",
+        "condition": "max 3squares/day",
+        "note": ""
+    },
+    "wasabi": {
+        "name": "wasabi",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

@@ -33,5 +33,26 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "rice wine vinegar": {
+        "name": "rice wine vinegar",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice malt syrup": {
+        "name": "rice malt syrup",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "relish": {
+        "name": "relish",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

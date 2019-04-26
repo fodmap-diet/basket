@@ -19,5 +19,12 @@
         "fodmap": "medium",
         "condition": "max 200ml/day",
         "note": "orange juice can trigger ibs"
+    },
+    "oyster sauce": {
+        "name": "oyster sauce",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

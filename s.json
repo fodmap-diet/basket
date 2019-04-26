@@ -82,5 +82,75 @@
         "fodmap": "medium",
         "condition": "max 100ml/day",
         "note": ""
+    },
+    "sweet and sour sauce": {
+        "name": "sweet and sour sauce",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "suger free sweets": {
+        "name": "suger free sweets",
+        "category": "condiment",
+        "fodmap": "medium",
+        "condition": "polyols not allowed",
+        "note": ""
+    },
+    "sugar": {
+        "name": "sugar",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sucralose": {
+        "name": "sucralose",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "stock cubes": {
+        "name": "stock cubes",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "stevia": {
+        "name": "stevia",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "soy sauce": {
+        "name": "soy sauce",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sorbitol": {
+        "name": "sorbitol",
+        "category": "condiment",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "shrimp paste": {
+        "name": "shrimp paste",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "saccharine": {
+        "name": "saccharine",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

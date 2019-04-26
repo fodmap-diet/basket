@@ -40,5 +40,19 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "pesto sauce": {
+        "name": "pesto sauce",
+        "category": "condiment",
+        "fodmap": "medium",
+        "condition": "max 1tbsp/day",
+        "note": ""
+    },
+    "peanut butter": {
+        "name": "peanut butter",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

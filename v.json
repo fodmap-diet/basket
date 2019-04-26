@@ -5,5 +5,12 @@
         "fodmap": "low",
         "condition": "",
         "note": "alcohol can trigger ibs"
+    },
+    "vegemite": {
+        "name": "vegemite",
+        "category": "condiment",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }
