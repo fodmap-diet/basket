@@ -88,5 +88,54 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "cantaloupe": {
+        "name": "cantaloupe",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "carambola": {
+        "name": "carambola",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "cherry": {
+        "name": "cherry",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "clementine": {
+        "name": "clementine",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "currant": {
+        "name": "currant",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "custard apple": {
+        "name": "custard apple",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "canned fruit": {
+        "name": "canned fruit",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

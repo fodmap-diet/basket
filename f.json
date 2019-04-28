@@ -26,5 +26,19 @@
         "fodmap": "medium",
         "condition": "max once/day",
         "note": "only safe fruit is allowed"
+    },
+    "feijoa": {
+        "name": "feijoa",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "figs": {
+        "name": "figs",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

@@ -40,5 +40,26 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "tamarillo": {
+        "name": "tamarillo",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "tamarind": {
+        "name": "tamarind",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "tangelo": {
+        "name": "tangelo",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

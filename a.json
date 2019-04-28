@@ -39,5 +39,33 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "ackee": {
+        "name": "ackee",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "apple": {
+        "name": "apple",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "apricots": {
+        "name": "apricots",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "avocado": {
+        "name": "avocado",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

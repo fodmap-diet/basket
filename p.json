@@ -54,5 +54,82 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "papaya": {
+        "name": "papaya",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "passion fruit": {
+        "name": "passion fruit",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "paw paw": {
+        "name": "paw paw",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "fresh",
+        "note": "dried paw paw has high fodmap"
+    },
+    "peach": {
+        "name": "peach",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "pears": {
+        "name": "pears",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "persimmon": {
+        "name": "persimmon",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "pineapple": {
+        "name": "pineapple",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "non dried",
+        "note": "dried pineapple has high fodmap"
+    },
+    "plantain": {
+        "name": "plantain",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "peeled",
+        "note": ""
+    },
+    "plums": {
+        "name": "plums",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "pomegranate": {
+        "name": "pomegranate",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "prunes": {
+        "name": "prunes",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

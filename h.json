@@ -12,5 +12,12 @@
         "fodmap": "medium",
         "condition": "max once/day",
         "note": "some herbs can trigger ibs"
+    },
+    "honeydew melon": {
+        "name": "honeydew melon",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

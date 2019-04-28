@@ -11,5 +11,19 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "dates": {
+        "name": "dates",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "dragon fruit": {
+        "name": "dragon fruit",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

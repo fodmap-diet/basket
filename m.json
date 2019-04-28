@@ -82,5 +82,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "mandarin": {
+        "name": "mandarin",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

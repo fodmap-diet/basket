@@ -75,5 +75,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "watermelon": {
+        "name": "watermelon",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

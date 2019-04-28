@@ -54,5 +54,19 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "raisins": {
+        "name": "raisins",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "rhubarb": {
+        "name": "rhubarb",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

@@ -53,5 +53,40 @@
         "fodmap": "low",
         "condition": "",
         "note": "caffine in coffee can trigger ibs"
+    },
+    "bilberry": {
+        "name": "bilberry",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "blackberry": {
+        "name": "blackberry",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "blackcurrant": {
+        "name": "blackcurrant",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "boysenberry": {
+        "name": "boysenberry",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "breadfruit": {
+        "name": "breadfruit",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

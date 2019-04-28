@@ -19,5 +19,33 @@
         "fodmap": "medium",
         "condition": "max 200ml/day",
         "note": "lemonade can trigger ibs"
+    },
+    "lemon": {
+        "name": "lemon",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "lime": {
+        "name": "lime",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "lingon berry": {
+        "name": "lingon berry",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "lychee": {
+        "name": "lychee",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

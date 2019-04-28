@@ -26,5 +26,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "orange": {
+        "name": "orange",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

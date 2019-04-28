@@ -152,5 +152,19 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "sea buckthorns": {
+        "name": "sea buckthorns",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "sultanas": {
+        "name": "sultanas",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

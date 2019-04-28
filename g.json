@@ -40,5 +40,40 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "galia melons": {
+        "name": "galia melons",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "goji berry": {
+        "name": "goji berry",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "grapefruit": {
+        "name": "grapefruit",
+        "category": "fruit",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "grape": {
+        "name": "grape",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "guava": {
+        "name": "guava",
+        "category": "fruit",
+        "fodmap": "medium",
+        "condition": "only ripe",
+        "note": "unripe guava has high fodmap"
     }
 }

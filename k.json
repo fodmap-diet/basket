@@ -12,5 +12,12 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "kiwi": {
+        "name": "kiwi",
+        "category": "fruit",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }
