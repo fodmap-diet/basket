@@ -33,5 +33,40 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "oat bread": {
+        "name": "oat bread",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "oatcake": {
+        "name": "oatcake",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "oatmeal": {
+        "name": "oatmeal",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 1 serving/daily",
+        "note": ""
+    },
+    "oatmeal bread": {
+        "name": "oatmeal bread",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "oats": {
+        "name": "oats",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

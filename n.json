@@ -5,5 +5,19 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "noodles": {
+        "name": "noodles",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "non wheat based",
+        "note": ""
+    },
+    "naan": {
+        "name": "naan",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

@@ -19,5 +19,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "hazelnuts": {
+        "name": "hazelnuts",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 15/day",
+        "note": ""
     }
 }

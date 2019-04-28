@@ -75,5 +75,40 @@
         "fodmap": "medium",
         "condition": "only ripe",
         "note": "unripe guava has high fodmap"
+    },
+    "gluten free breads": {
+        "name": "gluten free breads",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "gluten free pasta": {
+        "name": "gluten free pasta",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "gnocchi": {
+        "name": "gnocchi",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "granary bread": {
+        "name": "granary bread",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "granola bar": {
+        "name": "granola bar",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

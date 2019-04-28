@@ -131,5 +131,26 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "pasta": {
+        "name": "pasta",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "non wheat",
+        "note": ""
+    },
+    "pastries": {
+        "name": "pastries",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "peanut": {
+        "name": "peanut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

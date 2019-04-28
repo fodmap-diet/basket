@@ -89,5 +89,54 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "macadamia nut": {
+        "name": "macadamia nut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "millet": {
+        "name": "millet",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "mixed nut": {
+        "name": "mixed nut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "muesli bar": {
+        "name": "muesli bar",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "muesli cereal": {
+        "name": "muesli cereal",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "muffin": {
+        "name": "muffin",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "multigrain bread": {
+        "name": "multigrain bread",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

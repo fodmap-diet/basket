@@ -137,5 +137,124 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "cake": {
+        "name": "cake",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "cashew": {
+        "name": "cashew",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "cereal bar": {
+        "name": "cereal bar",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "non wheat based",
+        "note": "wheat is high in fodmap, porridge and oat based are fine"
+    },
+    "chestnut": {
+        "name": "chestnut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "chia seed": {
+        "name": "chia seed",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "chips": {
+        "name": "chips",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "plain",
+        "note": ""
+    },
+    "coconut": {
+        "name": "coconut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": "coconut water is high in fodmap"
+    },
+    "corn bread": {
+        "name": "corn bread",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "cord tortillas": {
+        "name": "cord tortillas",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 3/day",
+        "note": ""
+    },
+    "corncake": {
+        "name": "corncake",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "cornflakes": {
+        "name": "cornflakes",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 1 serving/day",
+        "note": ""
+    },
+    "cornflour": {
+        "name": "cornflour",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "cous cous": {
+        "name": "cous cous",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "crackers": {
+        "name": "crackers",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "plain",
+        "note": ""
+    },
+    "crispbread": {
+        "name": "crispbread",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "croissants": {
+        "name": "croissants",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "crumpets": {
+        "name": "crumpets",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

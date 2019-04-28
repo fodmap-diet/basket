@@ -67,5 +67,26 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "almond meal": {
+        "name": "almond meal",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "almond": {
+        "name": "almond",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 15/day",
+        "note": ""
+    },
+    "amaranth flour": {
+        "name": "amaranth flour",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

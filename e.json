@@ -19,5 +19,19 @@
         "fodmap": "low",
         "condition": "",
         "note": "caffine in espresso may trigger ibs"
+    },
+    "egusi seeds": {
+        "name": "egusi seeds",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "einkorn flour": {
+        "name": "einkorn flour",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

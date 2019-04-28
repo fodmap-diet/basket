@@ -40,5 +40,12 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "freekeh": {
+        "name": "freekeh",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }

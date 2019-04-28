@@ -88,5 +88,82 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "barley": {
+        "name": "barley",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "basmati rice": {
+        "name": "basmati rice",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "biscuit": {
+        "name": "biscuit",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "savoury (no shortbread)",
+        "note": ""
+    },
+    "biscuits wheat": {
+        "name": "biscuits wheat",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "bran cereals": {
+        "name": "bran cereals",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "brazil nut": {
+        "name": "brazil nut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "bread": {
+        "name": "bread",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 1 slice/day",
+        "note": ""
+    },
+    "breadcrumbs": {
+        "name": "breadcrumbs",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "brown rice": {
+        "name": "brown rice",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "buckwheat": {
+        "name": "buckwheat",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": "buckwheat made flour and noodles has low fodmap"
+    },
+    "bulgur": {
+        "name": "bulgur",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 200gm/day",
+        "note": ""
     }
 }
