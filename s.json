@@ -166,5 +166,54 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "semolina": {
+        "name": "semolina",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "sesame seed": {
+        "name": "sesame seed",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sorghum": {
+        "name": "sorghum",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "spelt flour": {
+        "name": "spelt flour",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "sourdough": {
+        "name": "sourdough",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": "without kamut is low fodmap"
+    },
+    "starch": {
+        "name": "starch",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "sunflower seed": {
+        "name": "sunflower seed",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

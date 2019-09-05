@@ -61,5 +61,12 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "tortilla": {
+        "name": "tortilla",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

@@ -5,5 +5,12 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "yam": {
+        "name": "yam",
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

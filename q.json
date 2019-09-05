@@ -5,5 +5,12 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "quinoa": {
+        "name": "quinoa",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

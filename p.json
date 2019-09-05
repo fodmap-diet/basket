@@ -152,5 +152,82 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "pecans": {
+        "name": "pecans",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "15/day",
+        "note": ""
+    },
+    "pine nut": {
+        "name": "pine nut",
+        "category": "grain",
+        "fodmap": "medium",
+        "condition": "max 15/day",
+        "note": ""
+    },
+    "pistachios": {
+        "name": "pistachios",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "polenta": {
+        "name": "polenta",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "popcorn": {
+        "name": "popcorn",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "poppy seed": {
+        "name": "poppy seed",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "potato": {
+        "name": "potato",
+        "category": "vegetable",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pretzel": {
+        "name": "pretzel",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pumpernickel bread": {
+        "name": "pumpernickel bread",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "pumpkin seed": {
+        "name": "pumpkin seed",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "pho": {
+        "name": "pho",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

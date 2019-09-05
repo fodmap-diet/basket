@@ -82,5 +82,26 @@
         "fodmap": "high",
         "condition": "",
         "note": ""
+    },
+    "walnut": {
+        "name": "walnut",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "wheat": {
+        "name": "wheat",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "white rice": {
+        "name": "white rice",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
     }
 }

@@ -68,5 +68,68 @@
         "fodmap": "low",
         "condition": "",
         "note": ""
+    },
+    "rice krispies": {
+        "name": "rice krispies",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice bread": {
+        "name": "rice bread",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice cake": {
+        "name": "rice cake",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice cracker": {
+        "name": "rice cracker",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice flakes": {
+        "name": "rice flakes",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice flour": {
+        "name": "rice flour",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "rice noodle": {
+        "name": "rice noodle",
+        "category": "grain",
+        "fodmap": "low",
+        "condition": "",
+        "note": ""
+    },
+    "roti": {
+        "name": "roti",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
+    },
+    "rye": {
+        "name": "rye",
+        "category": "grain",
+        "fodmap": "high",
+        "condition": "",
+        "note": ""
     }
 }
